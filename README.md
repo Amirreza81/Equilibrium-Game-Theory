@@ -11,7 +11,7 @@ I applied two different kind of LP for this question.
 > [First Version](Amirreza81/Equilibrium-Game-Theory/Mixed-Nash-Equilibrium/Nash_Equilibrium_v1.py) <br _>
 > [Second Version](Amirreza81/Equilibrium-Game-Theory/Mixed-Nash-Equilibrium/Mixed-Nash-Equilibrium.py)
 
-Second one is an easier implementation using M + N variables. You can see more details [here](Amirreza81/Algorithmic-Game-Theory/Projects/Project1/LP.png).
+Second one is an easier implementation using M + N variables. You can see more details [here](Amirreza81/Equilibrium-Game-Theory/Mixed-Nash-Equilibrium/LP.png).
 
 <br _>
 
