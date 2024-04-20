@@ -41,9 +41,9 @@ the utilities of player1 and after N lines we get utilities of player2. The tabl
 
 ```
 (8, 8)  | (-5, 9)
-------------------
+-----------------
 (-3, 1) | (4, -2)
-------------------
+-----------------
 (-5, 8) | (-4, 5)
 ```
 
@@ -89,11 +89,11 @@ For finding correlated equilibrium, you should check this constraint and with so
 Suppose two players wants to play a game. In this example, player 1 has 3 actions and player2 has 3 actions. We should find the probability of playing each strategy profile and maximum optimal social benefit. For this example, the table of utilities is:
 
 ```
-(6, 6) | (-2, 0) | (0, 7)
--------------------------
-(2, 2) | (2, 2) | (0, 0)
--------------------------
-(0, 0) | (0, 0) | (3, 3)
+(6, 6) |  (-2, 0) | (0, 7)
+--------------------------
+(2, 2) |  (2, 2)  | (0, 0)
+--------------------------
+(0, 0) |  (0, 0)  | (3, 3)
 ```
 
 After solving LP, for finding maximum optimal social benefit we have:
