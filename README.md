@@ -16,7 +16,6 @@ Second one is an easier implementation using M + N variables. You can see more d
 <br _>
 
 ### An example:
-<br _>
 
 **Input:**
 
@@ -66,10 +65,44 @@ For finding correlated equilibrium, you should check this constraint and with so
 \sum_{{\bar{s}}\; \in \; S_{-p}} u_{i, {\bar{s}}}^p \; x_{i,\; {\bar{s}}} \geq \sum_{{\bar{s}}\; \in \; S_{-p}} u_{j,\; {\bar{s}}}^p \; x_{i,\; {\bar{s}}},\;\; \forall \; p \; and \; \forall \; i,j\; \in S_{p}
 ```
 
+### An example:
 
+**Input:**
 
+```
+1 1
+3 3
+6 6 -2 0 0 7
+2 2 2 2 0 0
+0 0 0 0 3 3
+```
 
+**Output:**
 
+```
+8.000000
+0.500000 0.000000 0.000000 
+0.250000 0.250000 0.000000 
+0.000000 0.000000 0.000000
+```
+
+Suppose two players wants to play a game. in this example, player 1 has 3 actions and player2 has 3 actions. We should find the probability of playing each strategy profile and maximum optimal social benefit. For this example, the table of utilities is:
+
+```
+(6, 6) | (-2, 0) | (0, 7)
+-------------------------
+(2, 2) | (2, 2) | (0, 0)
+-------------------------
+(0, 0) | (0, 0) | (3, 3)
+```
+
+After solving LP, for finding maximum optimal social benefit we have:
+
+```
+0.5 * (6 + 6) + 0.25 * (2 + 2) + 0.25 * (2 + 2) = 8
+```
+
+For more questions or any problem, feel free to contact with [me](amirrezaazari1381@gmail.com).
 
 
 
