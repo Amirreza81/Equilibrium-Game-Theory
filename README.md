@@ -36,7 +36,7 @@ Second one is an easier implementation using M + N variables. You can see more d
 0.450000 0.550000
 ```
 
-Suppose two players wants to play a game. in this example, player 1 has 3 actions and player2 has 2 actions. After N lines we get 
+Suppose two players wants to play a game. In this example, player 1 has 3 actions and player2 has 2 actions. After N lines we get 
 the utilities of player1 and after N lines we get utilities of player2. The table of utilities is equal to:
 
 ```
@@ -86,7 +86,7 @@ For finding correlated equilibrium, you should check this constraint and with so
 0.000000 0.000000 0.000000
 ```
 
-Suppose two players wants to play a game. in this example, player 1 has 3 actions and player2 has 3 actions. We should find the probability of playing each strategy profile and maximum optimal social benefit. For this example, the table of utilities is:
+Suppose two players wants to play a game. In this example, player 1 has 3 actions and player2 has 3 actions. We should find the probability of playing each strategy profile and maximum optimal social benefit. For this example, the table of utilities is:
 
 ```
 (6, 6) | (-2, 0) | (0, 7)
