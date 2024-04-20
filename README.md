@@ -57,3 +57,21 @@ player2 -> (0.45, 0.55)
 
 
 ## Q2 - Correlated Equilibrium
+
+You can see the statements of this question [here](https://github.com/Amirreza81/Equilibrium-Game-Theory/blob/main/Correlated%20Equilibrium/Correlated_Equilibrium.pdf).<br _>
+
+I tried to find the correlated equilibrium with simplex algorithm. <br _>
+For finding correlated equilibrium, you should check this constraint and with solving the LP, you will find the answer.
+```math
+\sum
+```
+
+
+
+
+
+
+
+
+
+
