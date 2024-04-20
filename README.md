@@ -63,7 +63,7 @@ You can see the statements of this question [here](https://github.com/Amirreza81
 I tried to find the correlated equilibrium with simplex algorithm. <br _>
 For finding correlated equilibrium, you should check this constraint and with solving the LP, you will find the answer.
 ```math
-\sum_({\bar{s}} \in S_(-P)) u_(i, {\bar{s}})^P x_(i, {\bar{s}})
+\sum_{{\bar{s}} \in S_(-P)} u_(i, {\bar{s}})^P x_(i, {\bar{s}})
 ```
 
 
