@@ -55,7 +55,7 @@ player2 -> (0.45, 0.55)
 ```
 
 
-## Q2 - Correlated Equilibrium
+## Correlated Equilibrium
 
 You can see the statements of this question [here](https://github.com/Amirreza81/Equilibrium-Game-Theory/blob/main/Correlated%20Equilibrium/Correlated_Equilibrium.pdf).<br _>
 
