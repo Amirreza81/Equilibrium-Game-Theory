@@ -13,7 +13,6 @@ I applied two different kind of LP for this question.
 
 Second one is an easier implementation using M + N variables. You can see more details [here]([Amirreza81/Equilibrium-Game-Theory/Mixed-Nash-Equilibrium/LP.png](https://github.com/Amirreza81/Equilibrium-Game-Theory/blob/main/Mixed-Nash-Equilibrium/LP.png)).
 
-<br _>
 
 ### An example:
 
