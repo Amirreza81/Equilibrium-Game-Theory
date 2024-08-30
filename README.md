@@ -3,13 +3,13 @@ Correlated Equilibrium and Mixed Nash Equilibrium with python
 
 ## Mixed Nash Equilibrium 
 
-You can see the statements of this question [here](Amirreza81/Equilibrium-Game-Theory/Mixed-Nash-Equilibrium/Nash_Equilibrium.pdf).
+You can see the statements of this question [here](https://github.com/Amirreza81/Equilibrium-Game-Theory/blob/main/Mixed-Nash-Equilibrium/Nash_Equilibrium.pdf).
 
 I tried to find the mixed nash equilibrium with simplex algorithm. <br _>
 
 I applied two different kind of LP for this question. 
-> [First Version](Amirreza81/Equilibrium-Game-Theory/Mixed-Nash-Equilibrium/Nash_Equilibrium_v1.py) <br _>
-> [Second Version](Amirreza81/Equilibrium-Game-Theory/Mixed-Nash-Equilibrium/Mixed-Nash-Equilibrium.py)
+> [First Version](https://github.com/Amirreza81/Equilibrium-Game-Theory/blob/main/Mixed-Nash-Equilibrium/Nash_Equilibrium_v1.py) <br _>
+> [Second Version](https://github.com/Amirreza81/Equilibrium-Game-Theory/blob/main/Mixed-Nash-Equilibrium/Mixed-Nash-Equilibrium.py)
 
 Second one is an easier implementation using M + N variables. You can see more details [here](https://github.com/Amirreza81/Equilibrium-Game-Theory/blob/main/Mixed-Nash-Equilibrium/LP.png).
 
