@@ -1,4 +1,7 @@
-# Equilibrium-Game-Theory
+# Equilibrium Game Theory
+
+### Game Theory - Sharif University of Technology
+
 Correlated Equilibrium and Mixed Nash Equilibrium with python
 
 ## Mixed Nash Equilibrium 
