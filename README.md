@@ -1,6 +1,6 @@
 # Equilibrium Game Theory
 
-### Game Theory - Sharif University of Technology
+### Game Theory - Sharif University of Technology (CE-456)
 
 Correlated Equilibrium and Mixed Nash Equilibrium with python
 
@@ -88,7 +88,7 @@ For finding correlated equilibrium, you should check this constraint and with so
 0.000000 0.000000 0.000000
 ```
 
-Suppose two players wants to play a game. In this example, player 1 has 3 actions and player2 has 3 actions. We should find the probability of playing each strategy profile and maximum optimal social benefit. For this example, the table of utilities is:
+Suppose two players want to play a game. In this example, player 1 has 3 actions and player2 has 3 actions. We should find the probability of playing each strategy profile and maximum optimal social benefit. For this example, the table of utilities is:
 
 ```
 (6, 6) |  (-2, 0) | (0, 7)
@@ -104,7 +104,7 @@ After solving LP, for finding maximum optimal social benefit we have:
 0.5 * (6 + 6) + 0.25 * (2 + 2) + 0.25 * (2 + 2) = 8
 ```
 
-For more questions or any problem, feel free to contact with [me](amirrezaazari1381@gmail.com).
+For more questions or any problem, feel free to contact [me](amirrezaazari1381@gmail.com).
 
 
 
